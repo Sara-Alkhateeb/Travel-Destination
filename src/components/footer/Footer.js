@@ -11,13 +11,13 @@ function Footer() {
         
         
             <a href="https://www.facebook.com/traveldestintion">
-            <FontAwesomeIcon icon={faFacebookF} style={{ color: 'darkgreen' }}/>
+            <FontAwesomeIcon icon={faFacebookF} style={{ color: 'black' }}/>
           </a>
         <a href="https://twitter.com/traveldestintion">
-            <FontAwesomeIcon icon={faTwitter} style={{ color: 'darkgreen' }}/>
+            <FontAwesomeIcon icon={faTwitter} style={{ color: 'black' }}/>
           </a>
         <a href="https://www.instagram.com/traveldestintion">
-            <FontAwesomeIcon icon={faInstagram} style={{ color: 'darkgreen' }}/>
+            <FontAwesomeIcon icon={faInstagram} style={{ color: 'black' }}/>
           </a>
         </div>
     );
